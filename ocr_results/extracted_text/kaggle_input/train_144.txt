@@ -1,0 +1,11 @@
+There are Several classic spatia
+or eliminating high frequency nois«
+mean filter; the median filter and
+filter are frequently-used. The me
+lowpass or smoothing filter that re
+values with the neighborhood mean.
+image noise but blurs the “image eds
+filter calculates the median of the
+for each pixel, thereby reducing tl
+Finally, the opening closing filter
+morphological filter that combines

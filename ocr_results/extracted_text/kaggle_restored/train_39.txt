@@ -1,0 +1,13 @@
+There are several claccic spatial filters for reducing or elimin
+from images The mcan filter, the median filter and the closing
+used The mean filter is a lowpass or smoothing filter that roplac
+neighborhood mean It reduces the image noise but blurs the imag
+calculates the median of the pixel neighborhood fas,each pixel, th
+effect Finally, the opening closing filter is a mathematical morphc
+the same number of erosion and dilation morpologeshoperaton
+objects fromimages «oo |
+
+The main goal was to train a ncural netwotk in 3 supervised
+imoge from a noisy one In this particular case, it was mjich caster
+
+“Pe oge-from a clean one than to clean a subset of ngfsy images

@@ -1,0 +1,13 @@
+There are several classic spatzal filters for reducing or elrman
+from images. The mean filter. the median filter and the closing o
+used. The mean filter 1s a lowpass or smoothing filter that rep
+the neighborhood mean. It reduces the image notse but blurs the
+filter calendatp the median of the pixel nerghbeltgod for each ;
+blurring effect. Fmally. the opening closing filtérgig a mathem
+that combines the same number of erosion and djlatiyn morpho
+to elzmanagé” small objects from mmages. @  *}
+
+The train goal was to train a neural retwch in @ fF upervisea
+amage from a noisy oneX In this particular caseait w§s much ec
+
+“norsyetmage from a clean’ one than to clean a fubfet of nowy

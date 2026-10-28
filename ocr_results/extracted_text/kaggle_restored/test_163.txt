@@ -1,0 +1,15 @@
+A new offline handwritten database for the Spa
+contains full Spanish sentences. has recently been de
+cus database (which stands for Spanish Rectricted-do
+Script). There were two main rea.ons for creating th
+most databases do not contain Spanish sentences, ev
+a widespread major language. Another important re
+corpus from semantic reutricted tasks. These tasks ¢
+practice and allow the use of linguistic knowledge be.
+in the recognition process.
+
+As the Spartacus database consisted mainly of sb
+not contain long paragraphs, the writers were anked to
+in fixed places: dedicated onc linc fields in the forms.
+of the forms used in the acquisition process. These for
+yet of instruction’ given to the writer.

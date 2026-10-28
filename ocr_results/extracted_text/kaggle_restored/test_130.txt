@@ -1,0 +1,11 @@
+A new offline handwritten databc
+language, which contains full Span
+has recently been developed: the
+(whtth stands for Spanish Restrict
+of Cursive Script). There were tu
+for creating this corpus. First o
+do not contain Spanish sentences,
+is a@ widespread major language. A
+reason was to create a corpus fron
+tasks. These tasks are commonly
+and allow the use of linguistic kr

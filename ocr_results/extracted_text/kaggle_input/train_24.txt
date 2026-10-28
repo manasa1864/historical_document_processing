@@ -1,0 +1,12 @@
+‘There are several classic spatial filters for reducing or elimin
+from images. The mean filter, the median filter and the closing oj
+used.-The meat filter is a lowpass or smoothing filter that rep]
+‘the neighborhoodaugan. It reduces the image noise but blurs the
+filtersealculates the median of the pixel neighborhood for each f
+blurring effeét® Finally, thé-opening Closing. filter is a mathem
+that combines the same number of erosion and dilation morpho
+to climinate small objects from images.
+
+The main goal was to train a neural 1étwork in a supervised
+image from a noisy one. In this particular case, it wasemuch ea
+noisy image from a clean one than to clean’a subset of ndisy

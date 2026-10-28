@@ -1,0 +1,12 @@
+There are several classic spatic
+or eliminating high frequency nots
+The mean filter, the median filter
+opening filter are frequently used
+ws a } i smoothing, ter t
+aes We th the ne rhood
+
+mage notse but blur, aimag
+filter calculates the m nm of th
+for each pixel, thereby reducing t
+Finally, the opening closing filte
+morphological filter that combines

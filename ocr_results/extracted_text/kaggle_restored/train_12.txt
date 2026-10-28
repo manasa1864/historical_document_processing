@@ -1,0 +1,12 @@
+There are several classic spatial filters for reducing or elimin
+from mages. The mean filter. the median filter and the closing o
+used. The mean filter 1 a lowpass or smoothing filter that rep
+the netghborhood-mgan. It reduces the rmage noise but blurs the
+filtercaloulates the median of the pecel neighborhood for each ;
+blurring effect.” Finally. the opening closing filter 1s a mathem
+that combines the same number of erosion and dilation morpho
+to ehminate small objects from umages.
+
+The main goal was to train a neural network in a supernses
+amage from a nowsy one. In this particular case, wt was.snuch e¢
+nowy image from a clean one than to clean a subset of nowsy

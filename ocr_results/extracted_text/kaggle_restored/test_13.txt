@@ -1,0 +1,12 @@
+A new offline handwritten database for the Spanish lang
+Spanish sentences, has recently been developed: the Spartacu
+for Spanish Restricted-domaig Task of Cuzcive Script). There |
+creating this corpus. First of Sil, most databases do not contai
+though Spanish is a widespread major ee aes impo!
+a corpus from semantic-restricted tasks Thesétasks ag comm
+allow the use of linguistic knowledge begjont! the L-acugevel I
+
+As the Spartacus database consisted yainly of short sente
+long paragraphs. the writers were asked £. up, aset pf Sentetices
+one Hne fields in the forms. Next figure shows one af the forn
+process, ‘These forms als. contain a. brief set of instrtictions giv

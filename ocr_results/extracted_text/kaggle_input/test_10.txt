@@ -1,0 +1,12 @@
+A new offline handwritten database for the Spanish language
+islentences, has recently been developed: the Spartacus databa
+ish Restricted#domain Task of Cursive Script). There were two
+this corpusy'Wirelef.all, most databases do not contain Spani
+Spanish is a widespread major language. Another important rea
+from semantic=restricted taks: Phesetasks-are commonly used
+use of linguistic knowledge beyond the lexicon level in the recog
+
+As the Spartacus database consisted mainly of short sentence
+paragraphs, the writers were asked to copy@ set of sentences in j
+line fields in the forms. Next figure shows onevof the forms used
+These forms also contain a brief set of instructions given tothe

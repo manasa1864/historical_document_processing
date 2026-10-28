@@ -1,0 +1,242 @@
+﻿dataset_pair,image,raw_image_path,restored_image_path,raw_status,restored_status,raw_word_count,restored_word_count,word_count_change,word_count_change_percent,raw_character_count,restored_character_count,raw_mean_ocr_confidence,restored_mean_ocr_confidence,confidence_change,raw_ocr_seconds,restored_ocr_seconds,raw_error,restored_error,raw_ocr_text,restored_ocr_text
+persian vs persian_restored,persian01.jpg,D:\IP_Project\historical_document_processing\persian\Persian01.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian01.jpg,OK,OK,7,0,-7,-100.0,19,0,21.57,,,1.075,0.486,,,"7 9
+T akong a 5
+~<a
+",
+persian vs persian_restored,persian02.jpg,D:\IP_Project\historical_document_processing\persian\Persian02.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian02.jpg,OK,OK,18,26,8,44.44,85,143,12.11,15.5,3.39,0.668,0.638,,,"=
+ULE A? WIR ip ads
+ce theta
+Dryyy Or pier i Cpbryarhplsr0
+etal Snaps thik
+‘er hy pip
+","ae Pes ie ae . a
+ yBaytenge oieomgeiys
+. gpbgiungin et nai
+epee lena
+Se, ieee sa aoe SUG wikew hip
+a Sree hype aust!
+~ peemngipor S . yllisioyar
+"
+persian vs persian_restored,persian03.jpg,D:\IP_Project\historical_document_processing\persian\Persian03.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian03.jpg,OK,OK,67,60,-7,-10.45,269,234,26.33,29.71,3.38,1.263,0.899,,,"oD
+leg
+ey Ce
+ee ee
+? - a) Syn . Cea Bg oe eee
+Gy gare, ean
+ke. Oe SSG
+iii oy ~ Soe Tae
+Bes, Wage Bp
+ae < anf Fags Fu,
+- 4 27 oe
+Cv*ey7-_ * ay ae, ‘
+Sey re
+SC MD, ‘eal sae
+| A- cots! ge
+Vy, poe age a Arig 4
+nis , FONG om ia
+es ee,
+CU. EE
+- Fat ae yf, pe
+| Mt Ra,
+SA
+. ee
+","lr
+Ye
+ee
+Sy
+arn, C36.
+he Te. eae
+oO, O77 Ges
+ae TE | Cais
+Cpe ed SBS
+ys “ei Ge, Hs
+OSS uy FG
+zw 6. Ye
+=x ws ey C;
+So! Beno marae
+Ay —
+ae oO
+LZ, gt oy « Az /*
+Can, Ve Le >
+ye Pha ee <-
+= 2, “75 i
+wig Cel:
+¢, Pit,
+Lae APY f . ee
+. as
+Sf
+"
+persian vs persian_restored,persian04.jpg,D:\IP_Project\historical_document_processing\persian\Persian04.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian04.jpg,OK,OK,6,5,-1,-16.67,33,22,24.25,8.8,-15.45,0.86,0.535,,,"Bi Socpotporbel
+te Up Lobe : ; lg
+","Bb So prte-tiel
+aN EWG
+"
+persian vs persian_restored,persian05.jpg,D:\IP_Project\historical_document_processing\persian\Persian05.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian05.jpg,OK,OK,22,14,-8,-36.36,74,55,13.33,20.5,7.17,0.937,0.568,,,"S2 oe
+~7 ""4
+MDS
+dt
+
+ess
+
+6° “Aay/s vrs pp— Os
+Gerth SAB et
+Ah sh fe
+jC ies y
+","S28 —-
+gee tue apt
+Jen A A fs
+Aye a eee)
+ATti- |
+Bn BL-
+"
+persian vs persian_restored,persian06.jpg,D:\IP_Project\historical_document_processing\persian\Persian06.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian06.jpg,OK,OK,20,11,-9,-45.0,77,54,27.93,28.53,0.6,1.192,0.791,,,"We |
+/ ? i ff ad
+eee: 4 ee
+es on “4 : iyi cae :
+er ale
+. os % iE i, ; Fs a os
+","Il
+j
+, Ta 7 - ;
+A10eTiny cu YI—0G 10
+% ° ’ ’ |
+LEG 1
+|
+"
+persian vs persian_restored,persian07.jpg,D:\IP_Project\historical_document_processing\persian\Persian07.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian07.jpg,OK,OK,40,33,-7,-17.5,180,165,18.47,20.03,1.56,1.022,0.734,,,"~~ a tle ae
+POO Te CUP phe Web 7
+Cee whys SN eipIaig ls
+epaansipecle Polity
+Cn hi nS eh iets
+Cee“ deat .
+aon ae wou ag lle
+: 4 Le LED yl Ake o be (so
+Uh iesigne\- ———_aibpbeilp as:
+","der
+wis ihisstpoole : a Pdi
+Op ypcsitghigh) Ph bisfoh okays
+we ghinguibses yg Dt oo cot es fosctyh
+r eI? Pad
+oBiacctaye STi phage
+anny SRP lays Sat hep oly
+ry ee ie,
+"
+persian vs persian_restored,persian08.jpg,D:\IP_Project\historical_document_processing\persian\Persian08.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian08.jpg,OK,OK,40,116,76,190.0,135,410,32.96,28.08,-4.88,1.155,1.26,,,"~ . . e, 2 tof aE od ag a See
+5S) 4 aa Bea G29 4
+ie ee” oe 2 ee, ee
+
+[2 2 2 Bs Be” mht oo
+4 B\BUNG 4 Be Ags.
+2 ‘i fi (7 3 . es ted . ‘ ‘
+","an Ps a ye ok a wo *
+a gf %, oe i . sw Y of pods
+ny Aas 2 BE Ly on
+foo. vet ke - a fie OGL EG.
+eS pie 2 ODT
+Pane a oO ae 7. ote. ’ 6G
+wy 2 ne ed 74 a - + F 4
+. _ . . vo! G - s g . c
+a) 2 o on ; 3
+2 yr Bap Ne “ o er 2 2 :
+; a ‘ Saw “2 pe o = va et
+. Saf Foe s, Z € > *s
+7 i “ i a Hs apat
+3 . ¢. as “Ne LO ss . Ve o &.
+Sy OS - ; _ Sys as AN
+: ss AYE EYE AS A
+gy ey CYS 7
+res . \ ares 2 Ko snes annem ta
+Pe VSR UL
+"
+persian vs persian_restored,persian09.jpg,D:\IP_Project\historical_document_processing\persian\Persian09.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian09.jpg,OK,OK,32,52,20,62.5,151,227,29.48,24.62,-4.86,1.968,1.775,,,"| > Nay {Tue Sia Ne
+‘ AG oN : ¥ Sy. 7 = is 2
+Speke Lah cee,
+aoe WMO Pom |
+Gee, pp tyr ‘ \. ~ S|
+ee gs ARPS) St
+Sbeyinenitpre ag | ale A)
+le USA A YRS :
+","Peg ni Beane
+Peat -att KG eae | LS
+DARN ef heb aps)
+gis ny mAs ag aan She
+<i, ©. Ves ToS a
+Lies IP Oral
+~& | Re |
+Nhe hi! Wi Ae! wig ge OE
+Eo. — .
+gies ihend paige an
+| Lehtonen te Be Ee
+""i - he 2
+Wi byoloh GPE (Sy Ee
+OLLIE BSA
+"
+persian vs persian_restored,persian10.jpg,D:\IP_Project\historical_document_processing\persian\Persian10.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian10.jpg,OK,OK,3,0,-3,-100.0,11,0,36.75,,,0.654,0.48,,,"eu ree | ee
+",
+persian vs persian_restored,persian11.jpg,D:\IP_Project\historical_document_processing\persian\Persian11.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian11.jpg,OK,OK,36,37,1,2.78,141,156,26.7,23.67,-3.03,1.012,0.783,,,"ye Mere peigaya
+c TRA ON GDOSS BL
+COR ip thay OP?
+User heypp pepe
+Oe SUAS Us ye fre
+fi iis / G ‘ i
+or” y i
+Ae :
+Vv Oe wsdl 2 >
+ene""
+ba oe ENS
+","» an
+se Mm wm Fuk
+Sas Pheplip roy
+he
+CPE aomutsuegn ec
+SA AOA ANDO S) OL
+Unie jp
+a/ - -
+Wye Al Ay es Jue O26
+< .>
+Ww h -~) NX
+yf 9 1
+VY ee “ a>
+Oa
+\vu
+&: »~
+"
+persian vs persian_restored,persian12.jpg,D:\IP_Project\historical_document_processing\persian\Persian12.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian12.jpg,OK,OK,23,15,-8,-34.78,91,79,18.58,22.87,4.29,1.007,0.657,,,"pho ON
+mae ead ie
+bes | bs
+jee Oi te |
+leh
+Riccio <1
+by ay
+Pig ars d. oral
+ebb
+— PULL Tt eo
+","(e
+
+Cees 4
+~tNE  Ohy
+
+MG ze
+even
+Cfespectes Metiieeo
+pee pete
+pL
+
+vel isefbbophoole
+"
+persian vs persian_restored,persian13.jpg,D:\IP_Project\historical_document_processing\persian\Persian13.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian13.jpg,OK,OK,10,9,-1,-10.0,31,31,31.18,34.67,3.49,1.178,0.696,,,"wn $f of a :
+ee WO AL Ma sy) ny
+","Li
+VN ye ayn os,
+Se WALLS 553 9
+"
+persian vs persian_restored,persian14.jpg,D:\IP_Project\historical_document_processing\persian\Persian14.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian14.jpg,OK,OK,15,5,-10,-66.67,60,21,32.96,35.12,2.16,0.71,0.484,,,"a + . J ‘ gr lee 7 > > .
+pe i
+eas, P f v. rere Re Se ¢ * i |
+","as fos * . fo ""
+ad Ke
+"
+persian vs persian_restored,persian15.jpg,D:\IP_Project\historical_document_processing\persian\Persian15.jpg,D:\IP_Project\historical_document_processing\persian_restored\Persian15.jpg,OK,OK,5,3,-2,-40.0,26,19,28.38,22.0,-6.38,1.522,0.661,,,"‘ “- oe way.
+HUE | Soy hee
+","Sekine, ( Loreal fl
+"

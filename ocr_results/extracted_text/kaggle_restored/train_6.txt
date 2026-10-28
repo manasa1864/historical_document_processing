@@ -1,0 +1,12 @@
+There are several classic spatzal filters for reducing or elma
+from images. The mean filter. the medzan filter and the closing o
+used. The mean filter 18 a lowpass or smoothing filter that rep
+the neighborhood mean. It reduces the mage novse but blurs the
+filter calculates the medzan of the pevel neighborhood for each |
+blurring effect. Finally, the opening closing filter ts a mathem
+that combines the same number of erosion and dilation morpho
+to elminate small objects from images.
+
+The main goal was to train a neural network in a supernsed
+amage from a nosy one. In thus particular case. it was much e
+nowy image from a clean one than to clean a subset of norsy

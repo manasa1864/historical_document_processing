@@ -1,0 +1,17 @@
+There are several classic spatial filters for reducir
+frequency noise from images. The mean filter, the
+closing Opening filter are frequently used. The mean
+smoothing | lter that replaces the pixeliyglues with th
+It reduces the image noise but blurs ti age edge
+calculates, mediay®of the pixel neighb for eac
+ing the ing effeet, Finally, theop losing fi
+mor cal filter that combines the imber o
+
+logical operations in order to eli e small
+
+The main goal was to train a new twork in a
+obtain a clean image from a noisy one: In this partic
+easier to obtain a simulated noisy image from a clea
+subset of noisy images. The process for obtaining si
+follows this scheme: This process requires images of
+rectangles) of LReMACHIL AT DMS at icheaneres opt

@@ -1,0 +1,12 @@
+There are several classzc spatial filters for redu
+frequency noise from rmages. The mean filter, the med
+opening filter are frequently used. The mean filter i
+filter that replaces the pixel values with the neighbo
+the image noise but blurs the image edges. The median
+of the pizel neighborhood for each pizel, thereby redu
+Finally, the opening closing filter is a mathematical |
+combines the same number of erosion and dzlutivn morph
+to eliminate small objects from images.
+
+The main goal was to train a neural network ina st
+a clean image from a noisy one. In this particular ca.

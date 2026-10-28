@@ -1,0 +1,12 @@
+A new offline handwritten database for the Spanish language
+tsh sentences. has recently been developed: the Spartacus databa:
+ash Restracted-domain Task of Curswe Script). There were two
+tins corpus. First of all. most databases do not contain Spam
+Spanish 23 a widespread major language. Another important rea
+from semantic-restricted tasks. These tasks are commonty used
+use of tnguistic knowledge beyond the lexicon level m the recog
+
+As the Spartacus database consisted mainly of short sentence
+paragraphs. the writers were asked to copy a set of sentences in f
+line fields in the forms. Next figure shows one of the forms used
+These forms also contam a brief set of mstructions given to the

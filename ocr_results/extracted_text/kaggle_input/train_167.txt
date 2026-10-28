@@ -1,0 +1,15 @@
+There exist several methods to design forms with fi
+iistance, fields may be surrounded by bounding box
+or by guiding rulers. These methods specify where te
+minimize the efféet-of skew and overlapping with otl
+These giiides\can be located-on~a separate sheet of
+below the form or they can be printed directly on 1
+guides on a separate sheet is much.better from the
+quality of the scanned image, but requires giving m
+more importantly, restricts its usé to tasks wherewith
+is used. Guiding rulers printed on the form are mot
+this reason. Light rectangles can be removed more e
+dark lines whenever the handwritten text, touches the
+other practical issues must-be taken into account: 1
+these light rectangles i§ in a different color (sem li
+this approach is more expensive than printing gray 1

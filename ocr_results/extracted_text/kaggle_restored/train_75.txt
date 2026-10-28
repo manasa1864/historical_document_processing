@@ -1,0 +1,11 @@
+There are several classic spatial filter:
+eliminating high frequency noise from im
+filter, the median filter and the closing ¢
+frequently used. The mean filter %s a lows
+filter that replaces the pixel udtue’ with
+mean. It reduces the image ‘notge but blurs
+The median filter calculates thee dian o
+borhood for each pixel, thereby reducing t
+Finally, the opening closing filter is am
+phological filter that combines the same n
+and dilation morphological operations in ¢

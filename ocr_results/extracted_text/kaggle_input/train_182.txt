@@ -1,0 +1,15 @@
+There exist several methOds to design forms with fi
+instance, fields may be surrounded by bounding boxes, b
+guiding rulers. These methods specify where to write ai
+the effect of skew and overlapping with other parts of t
+can be located on a separate sheet of paper that is loc
+they can be printed directly on the form. The use of gui
+is much m the point of view of the quality of t
+requires ema instructions and, more importantly, |
+where this of acquisition is used. Guiding rulers p
+more commonly used for this reason. . Light rectangles
+easily with filters than dark lines whenever the handwr
+rulers. Nevertheless, other, practical issues must be tal
+best way to print these light rectangles is in a different
+however, this approach is more expensive”thaneprintin
+black-and-white laser printers. A more economical afic

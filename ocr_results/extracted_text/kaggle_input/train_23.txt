@@ -1,0 +1,11 @@
+There exist seyeral methods to design forms with fields to
+fields may be surrounded by bounding boxes, by light rectan
+Thesesmethods specify where to write and, therefore, minimi
+overlappingywith~ether parts of the form. These guides can
+sheetusof paper that is Tocated below the form or they\can b
+form. The use"of guides ona separate’sheet.is much better fror
+quality of the scanned image, but requires giving more instructio
+restricts its use to tasks where this type of acquisition is used.
+the form are more commonly used for this reason. Light re
+more easily with filters than dark lines whenever the handwritt
+Nevertheless, other practical issues must be taken into accour

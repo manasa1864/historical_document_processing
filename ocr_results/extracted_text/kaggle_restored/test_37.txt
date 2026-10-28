@@ -1,0 +1,12 @@
+A new offline handwritten database for the Spanish language, |
+sentences, has recently been developed the Spartacus database
+Restricted-domain Task of Cursive Script) There were two ‘mai
+corpus First of all, most databases do not contain Spanish senten
+a widespread major language Another important rea$on was to cre.
+restricted tasks These tasks are commonly ‘nel a praétice and
+knowledge beyond the lexicon level in the jecognition proses.
+
+As the Spartacus database consisted mainly of short séntence
+paragraphs, the writers were asked tc copy a set of sentences in fixe
+fields in the forms Next figure shows one of the forms used in the
+forms also contain a brief set of instructions-given: to the writer

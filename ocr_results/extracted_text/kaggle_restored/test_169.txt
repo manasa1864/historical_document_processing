@@ -1,0 +1,14 @@
+A new offline handwritten database for the Spanish la
+full Spanish sentences, has recently been developed: t
+(which stands for Spanish Restricted-domain Task of |
+were two main reasons for creating this rae First
+do not contain Spanish sentences, even ough Spanish
+language. Another important reason was to.creéte a
+rostricted tasks. These tasks are commonly uséd in pra
+of linguistic knowledge beyond the lexicon level in the re
+
+As the Spartacus database consisted mainly of short
+contain long paragraphs, the writers were asked to cop
+fixed places: dedicated onc fine fields in the forms. Ne
+the forms used in the acquisition process. These forms
+of instructions given to the writer. .

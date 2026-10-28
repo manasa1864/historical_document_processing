@@ -1,0 +1,12 @@
+There are several classic spatial filters for reducing or elimin
+from images. The mean filter, the median filter and the closing o
+used. The med filter is a lowpass or smoothing filter that rep
+the neighbortiood-mean: It reduces the image noise but blurs the
+filtersgalculates the median of the pixel neighborhood for each 1
+blurring effect Finally, tk€ opening closing filter is a mather
+that combines the same number of erosion and dilation morpho
+to eliminate small, objects from images.
+
+The main goal was to train a neural nétwork in a supervised
+image from a noisy one. In this particular.case, it wasemuch ec
+noisy image from a clean one than to Clean a subset of noisy

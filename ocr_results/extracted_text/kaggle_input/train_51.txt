@@ -1,0 +1,12 @@
+There are several classic spatial filters for redu
+frequency noise from images. The mean filter, the med
+opening falter are frequently used. The mean filter i
+filter that replaces the pivel values with the neighbo
+the image noise but blurs the image edg The median
+of the pizely neighborhood for each pizel, ipereby redu
+Finally, the opening Posing filter is a atical |
+combines same number of erosiongand n morph
+to eli small objects from images.
+
+in goal was\ to train a neural ina st
+image from a noisy one. In this, Aicular ca

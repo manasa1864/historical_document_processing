@@ -1,0 +1,11 @@
+There are several classic spati¢
+or eliminating high frequency nois
+The mean-failter, the median filter
+opening filter -are frequently used
+is a lowpass or smoothing filter t
+pizel values with the neighborhood
+the image noise but blurs the imag
+filter calculates the median of th
+for each pizel, thereby reducing 1
+Finally, the opening closing filte
+morphological filter that combines

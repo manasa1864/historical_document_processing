@@ -1,0 +1,12 @@
+There are several classic spatial filters for redu
+frequency noise from images. The mean filter, the med
+opening filter are frequently used. The mean filter i
+filter thatyreplaces the pixel values with the neighbo
+the image moise but blurs the image edgeil\ The median
+of the pixel neighborhood for each pixel, Wiereby redu
+Finally, the opening @fosing filter is a matical 1
+combines #he same number of erosion and n morph
+to eli small objects from images.
+
+in goal was\to train a neural inas
+image from a WBisy one. In this cular ca

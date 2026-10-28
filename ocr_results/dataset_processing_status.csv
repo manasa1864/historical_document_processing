@@ -1,0 +1,6 @@
+﻿dataset_pair,status,raw_images,restored_images,matched_pairs,successful_pairs
+dataset vs dataset_restored,EVALUATED,150,150,150,150
+dibco_2017 vs dibco_2017_restored,EVALUATED,20,20,20,20
+dibco_2018 vs dibco_2018_restored,EVALUATED,10,10,10,10
+kaggle_input vs kaggle_restored,EVALUATED,216,216,216,216
+persian vs persian_restored,SKIPPED - LANGUAGE fas NOT INSTALLED,15,15,0,0
