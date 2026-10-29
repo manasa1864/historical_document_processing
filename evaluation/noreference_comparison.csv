@@ -1,0 +1,15 @@
+dataset,metric,original_mean,restored_mean,restored_better_on
+Persian (15),bg_std,4.7471,0.0,15/15
+Persian (15),contrast,73.0667,228.4667,15/15
+Persian (15),pct_white,0.0,88.8961,15/15
+Persian (15),coverage,11.2095,9.8801,
+Persian (15),continuity,0.9996,0.9999,14/15
+Kaggle test (72),bg_std,6.3741,0.0,72/72
+Kaggle test (72),contrast,105.2361,248.4722,72/72
+Kaggle test (72),pct_white,1.937,83.4421,72/72
+Kaggle test (72),coverage,25.88,16.7121,
+Kaggle test (72),continuity,0.9998,1.0,60/72
+Letters (150) - current pipeline,bg_std,1.9146,0.0,150/150
+Letters (150) - current pipeline,contrast,52.8,209.62,150/150
+Letters (150) - current pipeline,pct_white,0.0009,97.0004,150/150
+Letters (150) - current pipeline,coverage,11.0422,2.6773,
